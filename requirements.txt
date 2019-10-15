@@ -1,3 +1,5 @@
 numpy
 matplotlib
 tqdm
+PyWavelets
+sigpy
